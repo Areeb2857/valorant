@@ -1,3 +1,5 @@
-This is my file
+name = input("enter your name")
+age = input("enter your age")
 
-idk y they telling me to create this
+print(f" hello, {name} !)
+print(f"your age is {age}")
